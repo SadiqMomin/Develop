@@ -2,7 +2,7 @@
 Found live at: https://sungjk77.github.io/02-Advanced-CSS-Portfolio/
 GitHub address: https://github.com/sungjk77/02-Advanced-CSS-Portfolio
 
-checking 12344
+checking 12344900090
 
 ---------------------------------------
 <>index.html
