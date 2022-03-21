@@ -1,8 +1,6 @@
 # 02-Advanced-CSS-Portfolio
-Found live at: https://sungjk77.github.io/02-Advanced-CSS-Portfolio/
-GitHub address: https://github.com/sungjk77/02-Advanced-CSS-Portfolio
-
-checking 12344900090
+Found live at: https://sadiqmomin.github.io/Professional-Portfolio-Project/
+GitHub address: https://github.com/SadiqMomin/Professional-Portfolio-Project
 
 ---------------------------------------
 <>index.html
